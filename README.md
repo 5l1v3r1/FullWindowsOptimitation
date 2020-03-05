@@ -3,6 +3,7 @@
 
 <!-- Descripción -->
 ## Descripción
+
 Software All in ONE para optimizar Windows 10
  **Todavía está en proceso de desarrollo**
 <!-- Herramientas -->
@@ -18,12 +19,14 @@ Software All in ONE para optimizar Windows 10
 - Crea Llave de Registros
     - Ingrese la ruta del contenedor donde desea crear la llave de registro
     - **El valor de la llave puede tener distintos formatos**
+```md
             *String Value*
             *Binarie Value*
             *DWORD (32bits) Value*
             *QWORD (64bits) Value*
             *Multi-String Value*
-            *Expandable String*     
+            *Expandable String* 
+```    
 - Elimina Registros
     - Puede eliminar un contenedor con todas la llaves adentro
     - Puede eliminar solo una llave especifica
