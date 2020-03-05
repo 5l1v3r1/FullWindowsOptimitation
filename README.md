@@ -10,7 +10,7 @@ Software All in ONE para optimizar Windows 10
  ### Personalización:
  ### Registros:
  **Cuenta con un apartado completo para la siguientes herramientas.**
-[[FWO-Regedit](https://i.imgur.com/VxvRqCN.png)]
+![FWO-Regedit](https://i.imgur.com/VxvRqCN.png)
 - Lee Registros
     - Ingresa la ruta de la llave, y poderá obtener el valor dentro de ella
 - Crea Contenedor de Registros
