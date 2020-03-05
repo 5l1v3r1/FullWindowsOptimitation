@@ -18,20 +18,34 @@ Software All in ONE para optimizar Windows 10
 - Crea Llave de Registros
     - Ingrese la ruta del contenedor donde desea crear la llave de registro
     - **El valor de la llave puede tener distintos formatos**
-    -   *String Value*
-    -   *Binarie Value*
-    -   *DWORD (32bits) Value*
-    -   *QWORD (64bits) Value*
-    -   *Multi-String Value*
-    -   *Expandable String*     
+            *String Value*
+            *Binarie Value*
+            *DWORD (32bits) Value*
+            *QWORD (64bits) Value*
+            *Multi-String Value*
+            *Expandable String*     
 - Elimina Registros
     - Puede eliminar un contenedor con todas la llaves adentro
     - Puede eliminar solo una llave especifica
- ### Desintala Apps metro
+
+En el apartado de Backup, se buscará realizar una copia de seguridad de los registros importantes del sistema, como por ejemplo:
+- Programas que se inician automaticamente al encender la PC
+- Información de Extensión de Archivos
+    - Programas predeterminados al abrir x archivo
+- clic derecho del Mouse
+    -Información 
+ ### Desactiva o Activa Apps metro de Windows 8, 8.1 y 10
+ El detalle de éste apartado es poder tener en una lista todas las apps metro deactivadas y activadas, y decidir cual de ellas no necesitas y poder desactivarlas
+ - Contará en el futuro con una opción para eliminar los archivos de las apps metro, sin posibilidad de volver a activarlas
  ### Desintala Edge (No chromiun)
+ Se tratará de no dejar ningún rastro de Edge
 - Desactiva servicios
+- Eliminar archivos de instalación del sistema
  ### Desintala Windows Defender
 - Desactiva servicios
+ ### clic derecho del Mouse
+- Información de programas del clic derecho del mouse
+    -Según sea el caso
 <!--  -->
 <!--  -->
 <!--  -->
