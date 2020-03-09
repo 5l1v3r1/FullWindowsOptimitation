@@ -48,7 +48,7 @@ En el apartado de Backup, se buscará realizar una copia de seguridad de los reg
 - Desactiva servicios
  ### clic derecho del Mouse
 - Información de programas del clic derecho del mouse
-    -Según sea el caso
+    - Según sea el caso
 <!--  -->
 <!--  -->
 <!--  -->
@@ -77,7 +77,7 @@ You also need to install the following individual components:
 
 
 <!-- Licencia -->
-### Licencia
+## Licencia
 
 <!-- Creador  -->
 ---

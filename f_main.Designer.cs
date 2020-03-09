@@ -142,6 +142,8 @@
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.btnExit = new System.Windows.Forms.Button();
+            this.checkBox38 = new System.Windows.Forms.CheckBox();
+            this.checkBox39 = new System.Windows.Forms.CheckBox();
             this.tabControl1.SuspendLayout();
             this.tabPage6.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -1279,6 +1281,8 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.checkBox39);
+            this.tabPage2.Controls.Add(this.checkBox38);
             this.tabPage2.Controls.Add(this.info);
             this.tabPage2.Controls.Add(this.button5);
             this.tabPage2.Controls.Add(this.btn_defender_deactivate);
@@ -1298,11 +1302,11 @@
             // info
             // 
             this.info.AutoSize = true;
-            this.info.Location = new System.Drawing.Point(22, 284);
+            this.info.Location = new System.Drawing.Point(289, 356);
             this.info.Name = "info";
-            this.info.Size = new System.Drawing.Size(35, 13);
+            this.info.Size = new System.Drawing.Size(61, 13);
             this.info.TabIndex = 7;
-            this.info.Text = "label1";
+            this.info.Text = "información";
             // 
             // button5
             // 
@@ -1398,6 +1402,26 @@
             this.btnExit.TabIndex = 2;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            // 
+            // checkBox38
+            // 
+            this.checkBox38.AutoSize = true;
+            this.checkBox38.Location = new System.Drawing.Point(246, 205);
+            this.checkBox38.Name = "checkBox38";
+            this.checkBox38.Size = new System.Drawing.Size(104, 17);
+            this.checkBox38.TabIndex = 8;
+            this.checkBox38.Text = "Delete permante";
+            this.checkBox38.UseVisualStyleBackColor = true;
+            // 
+            // checkBox39
+            // 
+            this.checkBox39.AutoSize = true;
+            this.checkBox39.Location = new System.Drawing.Point(591, 205);
+            this.checkBox39.Name = "checkBox39";
+            this.checkBox39.Size = new System.Drawing.Size(104, 17);
+            this.checkBox39.TabIndex = 8;
+            this.checkBox39.Text = "Delete permante";
+            this.checkBox39.UseVisualStyleBackColor = true;
             // 
             // f_main
             // 
@@ -1549,6 +1573,8 @@
         private System.Windows.Forms.CheckBox checkBox9;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.CheckBox checkBox39;
+        private System.Windows.Forms.CheckBox checkBox38;
     }
 }
 
