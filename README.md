@@ -4,8 +4,7 @@
 <!-- Descripción -->
 ## Descripción
 
-Software All in ONE para optimizar Windows 10
- **Todavía está en proceso de desarrollo**
+Software All in ONE para optimizar Windows 10    - `10% terminado`
 <!-- Herramientas -->
 # Herramientas
  ### Personalización:
@@ -61,7 +60,9 @@ En el apartado de Backup, se buscará realizar una copia de seguridad de los reg
 <!--  -->
 <!--  -->
 <!-- Información de codificación -->
-## Código Fuente
+# Librerías utilizadas
+* WindowsRegistryTools v3.1 »» ver [Codigo fuente](https://github.com/SebastianEPH/WindowsRegistryTools_Libreria)
+# Código Fuente
 Éste proyecto se creó con el IDE Visual Studio 2019 [Puedes obtener la version comunidad gratis aquí](https://www.visualstudio.com/vs/community/).
 Verificar las siguientes herramientas estén descargadas e instaladas correctamente:
 
@@ -75,11 +76,15 @@ You also need to install the following individual components:
 - .NET Framework 4.7 SDK
 - .NET Framework 4.7 targeting pack
 
-
+---
 <!-- Licencia -->
 ## Licencia
+ GNU GENERAL PUBLIC LICENSE
 
 <!-- Creador  -->
 ---
-### By SebastianEPH
+## By SebastianEPH
+- [Github](https://github.com/SebastianEPH)
+- [Facebook](https://www.facebook.com/SebastianEPH)
+- [Linkedin](https://www.linkedin.com/in/sebastianeph/)
 ---
