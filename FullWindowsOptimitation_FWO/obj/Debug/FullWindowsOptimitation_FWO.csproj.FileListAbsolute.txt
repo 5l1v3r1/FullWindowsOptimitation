@@ -1,0 +1,9 @@
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\bin\Debug\FullWindowsOptimitation_FWO.exe.config
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\bin\Debug\FullWindowsOptimitation_FWO.exe
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\bin\Debug\FullWindowsOptimitation_FWO.pdb
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.csprojAssemblyReference.cache
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.Form_Main.resources
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.Properties.Resources.resources
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.csproj.GenerateResource.cache
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.exe
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.pdb

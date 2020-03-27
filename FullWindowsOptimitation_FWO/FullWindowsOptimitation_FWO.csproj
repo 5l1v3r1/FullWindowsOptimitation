@@ -4,8 +4,8 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36501FCF-5647-4334-9452-0B1A5D79F764}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{071E6648-B200-4724-AA98-ACA6338DFB3C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>FullWindowsOptimitation_FWO</RootNamespace>
     <AssemblyName>FullWindowsOptimitation_FWO</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -39,12 +39,61 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form_Features\CustomizeWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Features\CustomizeWindows.Designer.cs">
+      <DependentUpon>CustomizeWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Features\UninstallMetroApps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Features\UninstallMetroApps.Designer.cs">
+      <DependentUpon>UninstallMetroApps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libs\Librería - WRT.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Features\CustomizeWindows.resx">
+      <DependentUpon>CustomizeWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Features\UninstallMetroApps.resx">
+      <DependentUpon>UninstallMetroApps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
