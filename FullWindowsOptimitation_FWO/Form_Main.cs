@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FullWindowsOptimitation_FWO.Libs;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,10 @@ namespace FullWindowsOptimitation_FWO {
     public partial class Form_Main: Form {
         public Form_Main() {
             InitializeComponent();
+        }
+
+        private void button3_Click(object sender, EventArgs e) {
+    
         }
     }
 }

@@ -7,3 +7,6 @@ O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWind
 O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.csproj.GenerateResource.cache
 O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.exe
 O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.pdb
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.Form_Features.CustomizeWindows.resources
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.Form_Features.UninstallMetroApps.resources
+O:\OneDrive - xKx\SoftwareProyect\C#\seph-FullWindowsOptimitation_FWO_f\FullWindowsOptimitation_FWO\obj\Debug\FullWindowsOptimitation_FWO.csproj.CoreCompileInputs.cache
