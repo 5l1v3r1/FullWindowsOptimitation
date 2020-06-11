@@ -1,4 +1,5 @@
-﻿using FullWindowsOptimitation_FWO.Libs;
+﻿using FullWindowsOptimitation_FWO.Form_Features;
+using FullWindowsOptimitation_FWO.Libs;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,6 +18,13 @@ namespace FullWindowsOptimitation_FWO {
 
         private void button3_Click(object sender, EventArgs e) {
     
+        }
+
+        private void button6_Click(object sender, EventArgs e) {
+            ModeOptimitationSEPH OptimitationSEPH = new ModeOptimitationSEPH();
+            OptimitationSEPH.Show();
+
+
         }
     }
 }

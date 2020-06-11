@@ -53,6 +53,12 @@
     <Compile Include="Form_Features\CustomizeWindows.Designer.cs">
       <DependentUpon>CustomizeWindows.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Features\ModeOptimitationSEPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Features\ModeOptimitationSEPH.Designer.cs">
+      <DependentUpon>ModeOptimitationSEPH.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_Features\UninstallMetroApps.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_Features\CustomizeWindows.resx">
       <DependentUpon>CustomizeWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Features\ModeOptimitationSEPH.resx">
+      <DependentUpon>ModeOptimitationSEPH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Features\UninstallMetroApps.resx">
       <DependentUpon>UninstallMetroApps.cs</DependentUpon>
